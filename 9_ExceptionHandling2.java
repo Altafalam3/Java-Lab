@@ -1,4 +1,4 @@
-public class try4{
+public class 9_ExceptionHandling2{
 	public static void main(String [] args){
 		try{
 			int a []=new int[4];
