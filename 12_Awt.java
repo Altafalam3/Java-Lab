@@ -1,7 +1,7 @@
 import java.awt.*;
 import java.awt.event.*;
 
-class Awt implements ActionListener{
+class 12_Awt implements ActionListener{
 	//Declaring frame and objects.
 	Frame f=new Frame("Calculator");
 	Label l1=new Label("First number");
